@@ -1,4 +1,4 @@
 # clock
 A cascade of clocks written in Javascript.
 
-![Clocks demo](clock.gif | width=100)
+<img src="clock.gif" alt="Clocks demo" width="200">
