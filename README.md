@@ -1,2 +1,2 @@
 # clock
-A cascade of clocks in Javascript.
+A cascade of clocks written in Javascript.
